@@ -1,12 +1,12 @@
 #!/bin/bash
-#==============================================================================
-#| Description:   Checks if requirements for the Intro to Python class        |
-#|                are satisfied.                                              |
-#| Author:        Katarzyna Kedzierska                                        |
-#| Affiliation:   Wellcome Centre for Human Genetics, University of Oxford    |
-#| Date:          April 30, 2019                                              |
-#| Usage:         bash check_setup.sh                                         |
-#==============================================================================
+# ==============================================================================
+# | Description:   Checks if requirements for the Intro to Python class        |
+# |                are satisfied.                                              |
+# | Author:        Katarzyna Kedzierska                                        |
+# | Affiliation:   Wellcome Centre for Human Genetics, University of Oxford    |
+# | Date:          April 30, 2019                                              |
+# | Usage:         bash check_setup.sh                                         |
+# ==============================================================================
 
 PROGRAM=$0
 
