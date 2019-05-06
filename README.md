@@ -3,5 +3,5 @@ The repository with materials for the Introduction to Python course for NGSchool
 
 The aim of the workshopis to walk you through basics, show what can be done and where to find help and materials to learn more. 
 
-Hope you enjoy,
-Kasi
+Hope you enjoy,  
+Kasia
