@@ -12,21 +12,23 @@ The aim of the workshops is to walk you through basics, show what the advantages
 
 My name is [Kasia](https://kasia.codes/) and I'm a DPhil student in Genomic Medicine and Statistics at the Wellcome Centre for Human Genetics, University of Oxford. I'm also the President of [NGSchool Society](https://ngschool.eu/) where with an amazing group of [people](https://ngschool.eu/people/) we try to build international community for computational biologists with training, platforms to network and exchange knowledge. Be sure to check out more on our social media ([twitter](https://twitter.com/NGSchoolEU) and [fb](https://www.facebook.com/NGSchool.eu/)) and [join us on discord](https://discord.gg/MhNeqwR).
 
-## Running on Google Colab
+## Running the tutorial materials 
+### Running notebook on Google Colab
 
 You can run the whole notebook on [Google Colab](https://colab.research.google.com/). You can follow [this link](https://colab.research.google.com/github/NGSchoolEU/ngs19_python_intro/blob/master/Intro%20to%20Python.ipynb) directly or open a notebook from this repository. The beauty of this solution is that everything works and all you need is access to the internet to work on the exercises. However, the downside of this solution is that you have to have a google account. In case you are not comfortable with this, or you want to run the notebook offline see the instructions in the next section.
 
-## Running on your machine
+### Running notebook on your machine
 
 You can run the notebook on your machine. All you need is to make sure the following requirements are satisfied.
 
-### Requirements
+**Requirements**
 
 * Python3 (>= 3.5)
 * numpy
 * pandas
 * scipy
 * matplotlib
+* seaborn
 * Jupyter lab
 
 I prepared a script that can test whether the requirements are satisfied, and gives advice how to proceed in case some are missing. However, it only works on `bash`. 
@@ -36,4 +38,4 @@ bash setup_check.sh
 ```
 
 In case you need more advice don't hesitate to contact me. Hope you enjoy! 
-Kasia
+

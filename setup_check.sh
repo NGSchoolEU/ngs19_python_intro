@@ -31,7 +31,7 @@ Checks if the requirements for the Introduction to Python course are satisfied.
 If not, reports what is missing."
 }
 
-modules="numpy pandas matplotlib scipy"
+modules="numpy pandas matplotlib scipy seaborn"
 
 warning "
 This is a very simple script that looks for \e[1mPython3\e[0m, \e[1mJupyter lab\e[0m and
