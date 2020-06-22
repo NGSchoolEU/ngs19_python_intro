@@ -15,7 +15,7 @@ My name is [Kasia](https://kasia.codes/) and I'm a DPhil student in Genomic Medi
 ## Running the tutorial materials 
 ### Running notebook on Google Colab
 
-You can run the whole notebook on [Google Colab](https://colab.research.google.com/). You can follow [this link](https://colab.research.google.com/github/NGSchoolEU/ngs19_python_intro/blob/master/Intro%20to%20Python.ipynb) directly or open a notebook from this repository. The beauty of this solution is that everything works and all you need is access to the internet to work on the exercises. However, the downside of this solution is that you have to have a google account. In case you are not comfortable with this, or you want to run the notebook offline see the instructions in the next section.
+You can run the whole notebook on [Google Colab](https://colab.research.google.com/). You can follow [this link](https://colab.research.google.com/github/NGSchoolEU/ngs19_python_intro/blob/master/Intro_to_Python.ipynb) directly or open a notebook from this repository. The beauty of this solution is that everything works and all you need is access to the internet to work on the exercises. However, the downside of this solution is that you have to have a google account. In case you are not comfortable with this, or you want to run the notebook offline see the instructions in the next section.
 
 ### Running notebook on your machine
 
